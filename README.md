@@ -4,11 +4,11 @@ This project analyzes Spotify’s most streamed songs using Python and SQL. It p
 
 ## 📁 Files Included
 
-- `spotifydb_project.py` — Main Python application
-- `Spotify Most Streamed Songs.csv` — Dataset
-- `Group 6-Spotify ER Diagram.png` — ER diagram of the database structure
+- `DB & Big Data Project.pdf` — Full project report
 - `README.md` — Project documentation
-- `DBBD Project- Group 6.pdf` — Full project report
+- `Spotify ER Diagram.png` — ER diagram of the database structure
+- `Spotify Most Streamed Songs.csv` — Dataset
+- `spotifydb_project.py` — Main Python application
 
 ---
 
